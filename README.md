@@ -21,4 +21,3 @@ The application has been deployed on Streamlit, providing an interactive interfa
 * Output: The result is displayed on the Streamlit app with a visual indication of the prediction.Acknowledgments
 
 Dataset: ISIC 2018 Challenge
-Inspiration: Contributions to skin cancer research and early detection efforts.
